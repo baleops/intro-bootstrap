@@ -38,3 +38,8 @@ body{
 .navbar-dark {
     background-color:forestgreen;
 }
+
+.row-card {
+    margin: 0px auto;
+    padding: 15px 10px 15px 10px;
+}
